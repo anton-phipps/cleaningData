@@ -1,0 +1,34 @@
+You should create one R script called run_analysis.R that does the following. 
+
+Merges the training and the test sets to create one data set.
+
+Extracts only the measurements on the mean and standard deviation for each measurement. 
+
+Uses descriptive activity names to name the activities in the data set
+
+Appropriately labels the data set with descriptive variable names. 
+
+From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+Good luck!
+
+
+
+Raw Data
+  1. Data from the data source with no modifications
+Tidy Data
+  1. Each variable in one column
+  2. Each observation in a row
+  3. One table for each kind
+  4. Id to link items in seperate variables
+Code Book to describe how you go from one to the other
+  1. Information about variables
+  2. Information about summary choices
+  3. Invormation about the experimental study design used
+R code to do that transformation
+  1. Ideally computer script
+  2. The input script is the raw data
+  3. The output is the processed, tidy data
+  4. There are no parameters to script
+
+which() removes NA's
